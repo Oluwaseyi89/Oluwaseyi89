@@ -24,11 +24,11 @@ From my early days learning to code → to working in **insurance sales** (maste
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseyi89&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseyi89&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oluwaseyi89&theme=radical)  
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Isenewo Oluwaseyi Ephraim  
 
-💻 Self-taught developer | ☁️ AWS Solutions Architect Certified | 🔗 Exploring Blockchain (Starknet)  
+💻 Senior Software Engineer | ☁️ Certified AWS Solutions Architect | 🔗 Blockchain Expert
 
 I bridge the gap between **people and technology**.  
 From my early days learning to code → to working in **insurance sales** (mastering client relationships) → to building **web, mobile, and cloud-native apps**, my journey is all about solving real problems with **scalable, impactful solutions**.  

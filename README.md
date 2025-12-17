@@ -2,8 +2,7 @@
 
 💻 Senior Software Engineer | ☁️ Certified AWS Solutions Architect | 🔗 Blockchain Expert
 
-I bridge the gap between **people and technology**.  
-From my early days learning to code → to working in **insurance sales** (mastering client relationships) → to building **web, mobile, and cloud-native apps**, my journey is all about solving real problems with **scalable, impactful solutions**.  
+I design and build scalable, user-driven solutions across web, mobile, and cloud platforms, bridging business needs with technical execution. 
 
 ---
 

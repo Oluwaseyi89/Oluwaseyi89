@@ -62,7 +62,7 @@ I design and build scalable, user-driven solutions across web, mobile, and cloud
 ## ✨ Fun Facts  
 
 - 🎓 AWS **Solutions Architect Certified**  
-- 🤝 Love **collaboration**  
+- 🤝 Loves **collaboration**  
 
 ---
 

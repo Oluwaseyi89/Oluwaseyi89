@@ -35,13 +35,20 @@ I design and build scalable, user-driven solutions across web, mobile, and cloud
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseyi89&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseyi89&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oluwaseyi89&theme=radical)
+<table> 
+  <tr> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Oluwaseyi89&show_icons=true&theme=radical" />
+    </td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseyi89&layout=compact&theme=radical" />
+    </td> 
+  </tr> 
+</table> 
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oluwaseyi89&theme=radical" /> 
+</p>
 
 
 ---

@@ -53,12 +53,11 @@ I design and build scalable, user-driven solutions across web, mobile, and cloud
 
 ---
 
-## 🎯 What I’m Focusing On  
+## 🎯 What I'm Focusing On
 
-- 🌐 Building **web & mobile apps** that scale.  
-- ☁️ Designing **cloud architectures** with AWS.  
-- 🔄 Implementing **DevOps pipelines** for speed & resilience.  
-- 🔗 Exploring **ZK-proofs & blockchain** (Starknet).  
+- 🌐 **Scalable backends** — Web & mobile apps that perform under load
+- ☁️ **Cloud architecture** — AWS-certified design for production systems
+- 🔄 **DevOps pipelines** — CI/CD, automation, and resilient deployments
 
 ---
 

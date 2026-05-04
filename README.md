@@ -23,6 +23,8 @@ I design and build scalable, user-driven solutions across web, mobile, and cloud
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Starknet-FF5F1F?style=for-the-badge&logo=starknet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Stellar-7D20E2?style=for-the-badge&logo=stellar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

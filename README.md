@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Isenewo Oluwaseyi Ephraim  
 
-💻 Senior Software Engineer | ☁️ Certified AWS Solutions Architect | 🔗 Blockchain Expert
+💻 Backend Engineer | ☁️ AWS Certified Solutions Architect | ⛓️ Blockchain Engineer
 
 I design and build scalable, user-driven solutions across web, mobile, and cloud platforms, bridging business needs with technical execution. 
 

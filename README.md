@@ -74,6 +74,6 @@ I design and build scalable, user-driven solutions across web, mobile, and cloud
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/oluwaseyi-isenewo-6463838a)  
 - 🐦 [Twitter / X](https://x.com/IsenewoE)  
-- 🌐 [Portfolio](https://daz-course.vercel.app/)  
+- 🌐 [Portfolio](https://isenewo-oluwaseyi.vercel.app)  
 
 ---

@@ -70,6 +70,15 @@ Merged work in production codebases, mostly **TypeScript/Node.js backends** and 
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oluwaseyi89&show_icons=true&include_all_commits=true&hide=stars,issues&show=prs_merged,reviews&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=21600" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Oluwaseyi89&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub streak"/>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 **Primary languages:** Node.js (TypeScript), Go, Python
